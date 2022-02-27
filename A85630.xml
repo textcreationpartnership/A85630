@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained at sea, and the full particulars of a bloudy fight of Tuesday last, between the princes ships, and the Parliaments, four leagues from Jersey, with the number killed, sunk, and taken, and 14 sayl of ships seized on, &amp; carryed to Dunkirk. Also, a great fleet setting forth from thence for Prince Charles, commanded by Capt. Whittington, Admiral for his Highness, and their resolution to fall down into the river of Thames to seize on the Parliaments shipping, and to burn, kill and destroy, all that do oppose them. With the great emperors Proclamation, prohibiting all English Marchants from trading within his territories unlesse in Prince Charles his name, or by his letter-pattents.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85630</idno>
+            <idno type="STC">Wing G1769</idno>
+            <idno type="STC">Thomason E574_16</idno>
+            <idno type="STC">ESTC R206301</idno>
+            <idno type="EEBO-CITATION">99865475</idno>
+            <idno type="PROQUEST">99865475</idno>
+            <idno type="VID">165420</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165420)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E574[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained at sea, and the full particulars of a bloudy fight of Tuesday last, between the princes ships, and the Parliaments, four leagues from Jersey, with the number killed, sunk, and taken, and 14 sayl of ships seized on, &amp; carryed to Dunkirk. Also, a great fleet setting forth from thence for Prince Charles, commanded by Capt. Whittington, Admiral for his Highness, and their resolution to fall down into the river of Thames to seize on the Parliaments shipping, and to burn, kill and destroy, all that do oppose them. With the great emperors Proclamation, prohibiting all English Marchants from trading within his territories unlesse in Prince Charles his name, or by his letter-pattents.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Wharton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLIX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 4 and 5 contain description of the seige of Tredah including battles between September 8th and 12th, 1649.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165420:1" rendition="simple:additions"/>
+            <p>A GREAT VICTORY <hi>OBTAINED</hi> At SEA, and the full particulars of a bloudy Fight on <hi>Tueſday</hi> laſt, between the Princes ſhips, and the Parliaments, four leagues from <hi>Jerſey,</hi> with the num<g ref="char:EOLhyphen"/>ber killed, ſunk, and taken, and 14 Sayl of ſhips ſeized on, &amp; carryed to <hi>Dunkirk.</hi> Alſo, a great Fleet ſetting forth from thence for Prince <hi>Charles,</hi> commanded by Capt. <hi>Whittington,</hi> Admiral for his Highneſs, and their reſolution to fall down into the River of <hi>Thames</hi> to ſeize on the Parliaments ſhipping, and to burn, kill and deſtroy, all that do oppoſe them. With the great Emperors <hi>Proclamation,</hi> prohibiting all <hi>Engliſh Mar<g ref="char:EOLhyphen"/>chants</hi> from trading within his <hi>Territories</hi> unleſſe in Prince <hi>Charles</hi> his Name, or by his <hi>Letter-Pattents.</hi>
+            </p>
+            <figure>
+               <figDesc>ship in full sail</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Wharton, MDCXLIX.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:165420:2"/>
+            <pb n="1" facs="tcp:165420:2"/>
+            <head>A GREAT VICTORY Obtained at SEA <hi>AND</hi> The Particulars of a bloudy fight between the Prin<g ref="char:EOLhyphen"/>ces ſhips and the Parliaments, the number killed, ſunk, and taken priſoners. And Capt. <hi>Whit<g ref="char:EOLhyphen"/>tingtons</hi> Deſign to fall into the River of <hi>Thames</hi> with 15 ſayl for the Prince, to burn and deſtroy all that will not come in unto him.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>PRince <hi>Charles</hi> hath given out ſeverall Warants and Commiſſions to the reſpective Captains in their ſeverall Commands and Duties, for their
+<pb n="2" facs="tcp:165420:3"/>putting forth to Sea, together with certain Inſtructi<g ref="char:EOLhyphen"/>ons for the well ordering and carrying on of the pre<g ref="char:EOLhyphen"/>ſent deſign with the greateſt advantage; and to the end that the work may prove more eaſie and facile, the extent of his mercy contains in latitude, the burning, killing and ſinking of all that make oppoſition againſt him. But upon putting the ſame into execution, great was their oppoſition; for upon Capt. <hi>Wliſon,</hi> Cap. <hi>Nye,</hi> and Capt. <hi>Colemans</hi> lancking into the <hi>Deep,</hi> they diſco<g ref="char:EOLhyphen"/>vered two Marchants ſhips, floting upon the Neptune, and making towards them, gave them a broad ſide, but the Marchants chuſing rather to diſpute action, then yeeld to ſubmiſſion, anſwer'd them again with round ſhot inſomuch, that each man prepared for a conflict, the Deeks were well man'd, and Port holes open'd, the Trumpets ſounded, and Canons ratled, and great was the gallantry of the Mariners on both ſides; untill For<g ref="char:EOLhyphen"/>tune ſeemed to frown on Capt. <hi>Noye,</hi> who ſoon recei<g ref="char:EOLhyphen"/>ved a ſhot in the keel, which cauſed the ſhip imme<g ref="char:EOLhyphen"/>diatly to ſink, notwithſtanding all poſſible means uſed for preventing thereof; but the Capt. &amp; many others, ſaved themſelves by leaping into the Long-boat, and got ſafe to capt. <hi>Wilſons</hi> ſhip with the loſſe of 7 men, the other two ſeeing this, ſoon began to decline engag<g ref="char:EOLhyphen"/>ment, &amp; being too ſwift of ſayl, for the Marchants, got ſafe to <hi>Jerſey,</hi> the Marchants ſteering &amp; hoyſted ſayl towards the Eaſtern Point, whoſe victory was great, for they had not ſayled many leagues but they were again ſet upon by the Iriſh Pyrats, who after a ſharp conflict boarded one, killed 20, took 30 priſo<g ref="char:EOLhyphen"/>ners, and forced the reſt to the mercy of the Waves, with the loſſe of 9 men.</p>
+            <pb n="3" facs="tcp:165420:3"/>
+            <p>We hear that a great Fleet is preparing for the Prince at <hi>Dunkirk</hi> &amp; <hi>Oſtend,</hi> conſiſting of 16 ſayl, each ſhip carying about ten pieces; they are ſaid to be com<g ref="char:EOLhyphen"/>manded by one capt. <hi>Whittington,</hi> an excellent Naviga<g ref="char:EOLhyphen"/>tor, he hath received commiſſion from the Prince, and hath had the ſole ordering, diſpoſing, &amp; manning of the Fleet; they are very gallant Frights for ſayl, &amp; dan<g ref="char:EOLhyphen"/>gerous to our Engliſh Creets, whoſe deſign (its ſaid) is to come into the River of <hi>Thames,</hi> to ſeize veſſels, &amp; to burn, ſink and deſtroy all that ſhall oppoſe them; The Governor of <hi>Dunkirk</hi> is to have the tenth part of their prizes, and Prince <hi>Charles</hi> the fifth part. Captaine <hi>Rockes</hi> is ſaid to be Vice-Admirall to the ſaid Navy, with many other skilfull Pylots.</p>
+            <p>The Governour of <hi>Dunkirk</hi> hath lent them a great Colliers ſhip to make a priſon of for the <hi>Engliſh-men</hi> ſhe lies neer the Fort <hi>Madrick.</hi>
+            </p>
+            <p>Divers of the <hi>Ostend Pyrates</hi> have lately taken 14. Sayl of <hi>Engliſh</hi> and <hi>Dutch,</hi> laden with Corn, Coals, and other Commodities, they carryed them to <hi>Dunkirk,</hi> where they have made prize of all that was therein, and forced the Maſters to buy their own ſhips.</p>
+            <p>But the Parliaments <hi>Bonaventure</hi> hath met with ſome of them, and boarded a new Oſtender, taking ten pieces of Ordnance, and 30 men, ſhe is now in the Downs, and many others are haſtning thither.</p>
+            <closer>
+               <dateline>
+                  <hi>Southampton</hi> 
+                  <date>19. <hi>Septemb.</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="4" facs="tcp:165420:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>VPon the Lord Governour <hi>Cromwels</hi> neere ap<g ref="char:EOLhyphen"/>proach with his Army, to the frontier and im<g ref="char:EOLhyphen"/>pregnable Garriſon of <hi>Tredah,</hi> his Lordſhip hath ſent a Summons to the Governour Colonell <hi>Aſhton,</hi> for the ſurrender thereof to the power and obedience of the Parliament of <hi>England,</hi> but the Governour retur<g ref="char:EOLhyphen"/>ned a very reſolute and peremptory Anſwer, intima<g ref="char:EOLhyphen"/>ting, <hi>That he abhord with his ſoul the brand of perfidi<g ref="char:EOLhyphen"/>ouſneſse, that he was reſolved to diſplay the banner of loy<g ref="char:EOLhyphen"/>alty, and to stand is in the defence and preſervation of the trust repoſed in him to the last man, &amp;c.</hi> Whereupon, the Lord Governour immediatly called a Councel of Officers, for the well-ordering of the Army, to the end the work might appear more facile and eaſie, and in<g ref="char:EOLhyphen"/>deed ſo excellent were the debates and conſultations thereof, that their Deſign was lookt upon with great admiration.</p>
+            <p>And upon Saturday morning being the 8. of this in<g ref="char:EOLhyphen"/>ſtant <hi>Septemb.</hi> twelve thouſand Horſe, Foot, and Dra<g ref="char:EOLhyphen"/>goons, marched up in <hi>battell-array,</hi> with Trumpets ſounding, and Drums beating againſt the Town, where they ſoon encamped themſelves, cutting off divers paſ<g ref="char:EOLhyphen"/>ſes, &amp; uſing the rareſt ſtratagems of war, for ſtreight<g ref="char:EOLhyphen"/>ning the enemies quarters.</p>
+            <p>About 7 at night, the Army advanced ſomewhat neerer, and divers ſtrong Guards both of Horſe and Foot were placed within twice musket ſhot of the walls, where the Foot intrenched themſelves. And a<g ref="char:EOLhyphen"/>bout 5 in the morning, the beſieged diſcovered us, who drawing neerer to each other, ſaid, <hi>they would give us a dinner to welcome us into</hi> Ireland; and indeed they were very circumſpect in keeping of their word, for between
+<pb n="5" facs="tcp:165420:4"/>11 and 12 they gave us a viſit, ſallying forth with a conſiderable party of Horſe, and lining the obſcure places with many hundreds of foot, but failed in their promiſe; for upon their firſt charg againſt one of our horſe-guards, they were ſo gallantly received, that they ſoon quitted the place, our horſe purſued them with<g ref="char:EOLhyphen"/>in musket ſhot of their works, receiving a great volley from their Ambuſcado, in which we loſt 4 men, and 7 horſe; of the enemy kild and taken 13. The next morning being <hi>Munday</hi> they attempted another ſally, but not daring to put it in execution, retreated in a<g ref="char:EOLhyphen"/>gain without action, remaining all day very ſilent, till the Curtain of the moſt high Canopy began to expell and darken the ſplendor of <hi>Sols</hi> beauty, who even at the cloſe of the day upon the relieving our guards, gave us a volley both with great and round ſhot, which grazed and did no execution.</p>
+            <p>On <hi>Wedneſday</hi> being the 12. inſtant, Lieu. col. <hi>Aſhton</hi> (a great Papiſt, and Nephew to the Governour) about two of the clock in the morning made a very deſpe<g ref="char:EOLhyphen"/>rate ſalley upon two of our foot-guards, with 500. Iriſh, which by reaſon of the ſudden ſurprizall of our Perdews, and Centinels, cauſed great difficulties to in<g ref="char:EOLhyphen"/>tervene, yet notwithſtanding, the Wings of providence ſeeming as a great Bulwark to preſerve and defend us, our men received their furious onſet, but being over<g ref="char:EOLhyphen"/>powred, the Vau-guard retreated to the next, and bo<g ref="char:EOLhyphen"/>dying, advanced to the other ingaged, fell upon the <hi>Iriſh</hi> killed 40, took 20 priſoners, and forced the reſt to a diſhonorable retreat, with the loſs of ten; beſides thoſe in the former engagements, priſoners exchanged were equall, about 50. above 100 killed and wounded, wher<g ref="char:EOLhyphen"/>of on our part 30.</p>
+            <closer>
+               <dateline>
+                  <hi>Form the Siege at Tredah</hi> 
+                  <date>
+                     <hi>Sept.</hi> 16. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="6" facs="tcp:165420:5"/>
+            <p>Letters from <hi>Hamborough</hi> intimate, That Generall <hi>Montroſse</hi> lies with his Army there, and in the parts adjacent, they ſwear deſperately they will be in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> before <hi>Chriſtmas,</hi> (<hi>but thats uncertain</hi>) and boaſt themſelves to be twelve thouſand (<hi>but not half ſo ma<g ref="char:EOLhyphen"/>ny</hi>) they want money exceedingly, and Charity ſeemes cold, which is ill reſcented by the Souldiery; but their Generall is going to the King of <hi>Denmark,</hi> to negotiate with his Majeſty (in the Name of his Soveraign) for monies, and other accommodation, &amp;c. <hi>but the Plume being fallen, the deſign ſeems dubious.</hi>
+            </p>
+            <p>They further write, That the Emperour of <hi>Muſcovia</hi> hath ſet forth proclamation, prohibiting all the <hi>Eng<g ref="char:EOLhyphen"/>liſhs</hi> Marchants to depart his Territories, and not to trade any further, upon pain of confilcating all their Marchandize, unleſſe they hrve Commiſſion from the KING, either by Letters Pattents, or otherwiſe. <hi>This cauſeth a ſmile from the Royall party, who ſay, all Chriſtian Princes will do the like, &amp;c.</hi>
+            </p>
+            <closer>
+               <date>
+                  <hi>Septembr.</hi> 21. 1649.</date>
+               <signed>T. J.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
